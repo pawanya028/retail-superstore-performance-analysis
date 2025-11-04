@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Performance Dashboard (Power BI Project)
+# 📊 Superstore Sales Performance Analysis (Power BI Project)
 
 ## 📝 Project Overview
 This project is an **end-to-end Power BI dashboard** analyzing sales, profit, customers, and operations using the **Superstore dataset**.  
