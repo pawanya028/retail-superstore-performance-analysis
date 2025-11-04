@@ -43,16 +43,16 @@ The objective was to **convert raw transactional data into actionable business i
 ## 📷 Dashboard Preview
 
 ### Page 1 – Executive Overview  
-![Overview](Images/page1_overview.png)
+![Overview](Visuals/page1_overview.png)
 
 ### Page 2 – Product & Category Analysis  
-![Products](Images/page2_products.png)
+![Products](Visuals/page2_products.png)
 
 ### Page 3 – Geography & Operations  
-![Geography](Images/page3_geo.png)
+![Geography](Visuals/page3_geo.png)
 
 ### Page 4 – Customer Insights  
-![Customers](Images/page4_customers.png)
+![Customers](Visuals/page4_customers.png)
 
 ---
 
